@@ -11,6 +11,7 @@ MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/avinash.ranjan/.gra
 MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/avinash.ranjan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.1.aar/c55a7d4d9953e5e5674055a7f2711354/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /Users/avinash.ranjan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta1.aar/09f9ba817c85ac9fdd8dac33e63b0eb7/AndroidManifest.xml:2:1-11:12
 MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/avinash.ranjan/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/fd491b986f67b5e15d461e9344d91d12/AndroidManifest.xml:17:1-42:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/avinash.ranjan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/7c26d1aad5cfd5fcafd5006679444136/AndroidManifest.xml:17:1-24:12
 MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/avinash.ranjan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/a310a2f0ea81b97e9c07a5bd9de578b3/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:support-v4:26.0.1] /Users/avinash.ranjan/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/5c5365aae49868279b14a87a44d4c551/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-fragment:26.0.1] /Users/avinash.ranjan/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/5fb667700eaa6b81acdcb1b4dd1707f1/AndroidManifest.xml:17:1-31:12
@@ -20,6 +21,9 @@ MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/avinash.
 MERGED from [com.android.support:support-core-ui:26.0.1] /Users/avinash.ranjan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/5510b3fa4592fcb1d7f1f8694845eeff/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-media-compat:26.0.1] /Users/avinash.ranjan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/2bf0efdef469df748a0c40ab8eb4166b/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.0.1] /Users/avinash.ranjan/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/4dab5121371094f6a7f3d2e74229b708/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/avinash.ranjan/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/790ac3f8e6116164eb91386cf24e89a7/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0] /Users/avinash.ranjan/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/c51227ec67d0a1dc760356a1ba8f33b5/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.core:runtime:1.0.0] /Users/avinash.ranjan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/40dc9766c4c8a8a03aea016515543316/AndroidManifest.xml:17:1-24:12
 INJECTED from /Users/avinash.ranjan/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
 INJECTED from /Users/avinash.ranjan/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
 INJECTED from /Users/avinash.ranjan/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
@@ -151,6 +155,8 @@ MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /User
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /Users/avinash.ranjan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta1.aar/09f9ba817c85ac9fdd8dac33e63b0eb7/AndroidManifest.xml:5:5-7:41
 MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/avinash.ranjan/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/fd491b986f67b5e15d461e9344d91d12/AndroidManifest.xml:22:5-24:41
 MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/avinash.ranjan/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/fd491b986f67b5e15d461e9344d91d12/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/avinash.ranjan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/7c26d1aad5cfd5fcafd5006679444136/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/avinash.ranjan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/7c26d1aad5cfd5fcafd5006679444136/AndroidManifest.xml:20:5-22:41
 MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/avinash.ranjan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/a310a2f0ea81b97e9c07a5bd9de578b3/AndroidManifest.xml:20:5-22:41
 MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/avinash.ranjan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/a310a2f0ea81b97e9c07a5bd9de578b3/AndroidManifest.xml:20:5-22:41
 MERGED from [com.android.support:support-v4:26.0.1] /Users/avinash.ranjan/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/5c5365aae49868279b14a87a44d4c551/AndroidManifest.xml:21:5-23:54
@@ -169,6 +175,12 @@ MERGED from [com.android.support:support-media-compat:26.0.1] /Users/avinash.ran
 MERGED from [com.android.support:support-media-compat:26.0.1] /Users/avinash.ranjan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/2bf0efdef469df748a0c40ab8eb4166b/AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-compat:26.0.1] /Users/avinash.ranjan/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/4dab5121371094f6a7f3d2e74229b708/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-compat:26.0.1] /Users/avinash.ranjan/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/4dab5121371094f6a7f3d2e74229b708/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/avinash.ranjan/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/790ac3f8e6116164eb91386cf24e89a7/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/avinash.ranjan/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/790ac3f8e6116164eb91386cf24e89a7/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /Users/avinash.ranjan/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/c51227ec67d0a1dc760356a1ba8f33b5/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /Users/avinash.ranjan/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/c51227ec67d0a1dc760356a1ba8f33b5/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.core:runtime:1.0.0] /Users/avinash.ranjan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/40dc9766c4c8a8a03aea016515543316/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.core:runtime:1.0.0] /Users/avinash.ranjan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/40dc9766c4c8a8a03aea016515543316/AndroidManifest.xml:20:5-22:41
 INJECTED from /Users/avinash.ranjan/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
 INJECTED from /Users/avinash.ranjan/Downloads/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
